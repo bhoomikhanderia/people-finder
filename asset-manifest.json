@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/people-finder/static/css/main.1bd6894a.chunk.css",
-    "main.js": "/people-finder/static/js/main.3b19bd38.chunk.js",
-    "main.js.map": "/people-finder/static/js/main.3b19bd38.chunk.js.map",
+    "main.css": "/people-finder/static/css/main.a3651541.chunk.css",
+    "main.js": "/people-finder/static/js/main.68f9cf3c.chunk.js",
+    "main.js.map": "/people-finder/static/js/main.68f9cf3c.chunk.js.map",
     "runtime-main.js": "/people-finder/static/js/runtime-main.17f966b9.js",
     "runtime-main.js.map": "/people-finder/static/js/runtime-main.17f966b9.js.map",
     "static/js/2.ab29dc13.chunk.js": "/people-finder/static/js/2.ab29dc13.chunk.js",
     "static/js/2.ab29dc13.chunk.js.map": "/people-finder/static/js/2.ab29dc13.chunk.js.map",
     "index.html": "/people-finder/index.html",
-    "precache-manifest.4b6e83b2bbced9c026a21dca91207e98.js": "/people-finder/precache-manifest.4b6e83b2bbced9c026a21dca91207e98.js",
+    "precache-manifest.ba1ddda90d321a68260be2c23584fc20.js": "/people-finder/precache-manifest.ba1ddda90d321a68260be2c23584fc20.js",
     "service-worker.js": "/people-finder/service-worker.js",
-    "static/css/main.1bd6894a.chunk.css.map": "/people-finder/static/css/main.1bd6894a.chunk.css.map"
+    "static/css/main.a3651541.chunk.css.map": "/people-finder/static/css/main.a3651541.chunk.css.map"
   },
   "entrypoints": [
     "static/js/runtime-main.17f966b9.js",
     "static/js/2.ab29dc13.chunk.js",
-    "static/css/main.1bd6894a.chunk.css",
-    "static/js/main.3b19bd38.chunk.js"
+    "static/css/main.a3651541.chunk.css",
+    "static/js/main.68f9cf3c.chunk.js"
   ]
 }
